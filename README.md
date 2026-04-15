@@ -1,6 +1,6 @@
 # Cricket Analytics Platform
 
-A web-based cricket analytics platform built with Flask that provides natural language querying of cricket statistics, player analysis, match predictions, and interactive visualizations.
+A web-based cricket analytics platform built with Flask that provides natural language querying of cricket statistics, player analysis, match predictions, and interactive visualizations for the benefit of trainees, trainers and folks.
 
 ## Table of Contents
 
